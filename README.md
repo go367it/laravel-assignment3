@@ -1,10 +1,10 @@
 # Welcome to KhanaKhazana platform !
   
 
-**Dev By : Nilanjan Majumdar**
+**Dev By : Satyam Kumar**
 
   
 
-LinkedIn: https://www.linkedin.com/in/majumdarnilanjan/
+LinkedIn: https://www.linkedin.com/in/satyam-kumar-a49474193/
 
-Github: https://github.com/codenm007
+Github: https://github.com/go367it
